@@ -10,7 +10,7 @@ This project was completed as part of the Accenture North America Data Analytics
 **3.PowerPoint Presentation:** Presentation slides communicating key insights and recommendations for the client.  
 **4.Company Details Document:** Document providing background information about the client, Social Buzz.
 
-## 🛠 Skills
+## 🛠 Skills Used
 Data Analysis,
 Data Modeling,
 Data Understanding,
@@ -31,7 +31,7 @@ Teamwork.
 
 ## Project Details
 
- - Conducted an audit of Social Buzz's big data     practice.
+- Conducted an audit of Social Buzz's big data practice.
 - Provided recommendations for a successful IPO.
 - Analyzed content categories to highlight the top 5 categories with the largest aggregate popularity.
 
@@ -74,6 +74,7 @@ Clean the data by:
 - changing the data type of some values within a column, and
 - removing columns that are not relevant to this task.
 - Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
+
 **End result will be a cleaned data set**
 
 ### Data Modelling:
